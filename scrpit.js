@@ -1,7 +1,7 @@
 const kochibutton= document.getElementById("kochibutton");
 kochibutton.addEventListener("click", function() {
     showweather(9.93, 76.26);
-});h
+});
 const chennaibtn= document.getElementById("chennaibtn");
 chennaibtn.addEventListener("click", function() {
     showweather(13.067439, 80.237617);
